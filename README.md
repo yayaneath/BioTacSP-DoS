@@ -27,3 +27,15 @@ The dataset is stored under the *csvs* folder where there is a sub-folder for ea
 - 't' stands for *touch* (stable contact)
 
 Under each sub-folder, there is a CSV file containing a whole recording session or sequence for a single object: bottle (plastic bottle, *Solids* set), brush (wooden brush, *Small* set), bubbles (bubble wrap, *Textures* set), cardboard (cardboard, *Solids* set), case (metal pen case, *Basic* set), hd (hard drive, *Basic* set), pen (plastic pen, *Basic* pen), plate (metal heat sink, *Textures* set), screw (metal scree, *Small* set), sponge (sponge, *Basic* set) and striped (striped piece of plastic, *Textures* set). Each row of CSV file contains the 24 electrodes values of the BioTac SP sensor used in this work.
+
+# Citation
+```
+@misc{BTSP-DOS_2018,
+  author    = {Brayan S. Zapata{-}Impata and
+               Pablo Gil and
+               Fernando Torres},
+  title     = {BioTac SP DoS},
+  year      = {2018},
+  note       = {Data retrieved from \url{https://github.com/yayaneath/BioTacSP-DoS}}
+}
+```
