@@ -30,12 +30,15 @@ Under each sub-folder, there is a CSV file containing a whole recording session 
 
 # Citation
 ```
-@misc{BTSP-DOS_2018,
-  author    = {Brayan S. Zapata{-}Impata and
-               Pablo Gil and
-               Fernando Torres},
-  title     = {BioTac SP DoS},
-  year      = {2018},
-  note       = {Data retrieved from \url{https://github.com/yayaneath/BioTacSP-DoS}}
+@article{BTS-DOS,
+  author = {Zapata-impata, Brayan S. and Gil, Pablo and Torres, Fernando},
+  doi = {10.3390/s19030523},
+  journal = {Sensors},
+  number = {3},
+  pages = {1--16},
+  title = {{Learning Spatio Temporal Tactile Features with a ConvLSTM for the Direction Of Slip Detection}},
+  url = {https://www.mdpi.com/1424-8220/19/3/523},
+  volume = {19},
+  year = {2019}
 }
 ```
